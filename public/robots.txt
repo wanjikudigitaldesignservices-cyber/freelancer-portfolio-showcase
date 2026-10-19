@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://freelancer-portfolio-showcase.vercel.app/sitemap.xml
